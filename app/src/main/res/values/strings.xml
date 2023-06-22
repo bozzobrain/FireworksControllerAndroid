@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArduinoBluetooth</string>
+    <string name="mortor2">Mortor 2</string>
+    <string name="mortor8">Mortor 8</string>
+    <string name="mortor3">Mortor 3</string>
+    <string name="mortor9">Mortor 9</string>
+    <string name="mortor7">Mortor 7</string>
+    <string name="mortor_1">Mortor 1</string>
+    <string name="mortor4">Mortor 4</string>
+    <string name="mortor10">Mortor 10</string>
+    <string name="mortor5">Mortor 5</string>
+    <string name="mortor11">Mortor 11</string>
+    <string name="mortor6">Mortor 6</string>
+    <string name="mortor12">Mortor 12</string>
+</resources>
